@@ -23,5 +23,11 @@ remote repository.
 - Merge the class 01 branch into the main branch if required, following
 best practices.
 
+## Task 4
 
-- last commit
+-	Explored Comment Operators: Learned single-line (#), multi-line (""" """), and inline comments, along with IDE shortcuts.
+-	Understood Keywords and Identifiers: Differentiated Python’s reserved keywords and user-defined identifiers with casing styles like snake_case and camelCase.
+-	Practiced Line Continuation and Statement Separator Operators: Used \ for multi-line statements and ; for multiple statements on one line.
+-	Implemented Arithmetic Operations: Performed operations like +, -, /, //, %, *, and explored the divmod() function.
+-	Solved Assignments: Calculated the sum of digits in an integer and determined days completed from clock revolutions.
+-	Used Compound Operations: Applied shorthand operators like +=, -=, *=, and %= effectively.
