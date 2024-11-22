@@ -31,3 +31,11 @@ best practices.
 -	Implemented Arithmetic Operations: Performed operations like +, -, /, //, %, *, and explored the divmod() function.
 -	Solved Assignments: Calculated the sum of digits in an integer and determined days completed from clock revolutions.
 -	Used Compound Operations: Applied shorthand operators like +=, -=, *=, and %= effectively.
+
+## Task 5
+- Created a savings calculator to compute total savings with initial deposit and monthly contributions.
+-	Implemented simple and compound interest calculations for bank loan repayments.
+-	Developed number system conversion programs to switch between hexadecimal, octal, and decimal formats.
+-	Built unit conversion functions for feet-to-centimeter and centimeter-to-feet transformations.
+-	Tested all programs with dynamic user inputs for validation and accuracy.
+-	Committed and pushed changes to the main Git repository for Task 5 deliverables.
